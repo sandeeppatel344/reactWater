@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, Image } from 'react-native';
 import { getStorage } from '../utility';
-import SplashScreen from 'react-native-smart-splash-screen';
+//import SplashScreen from 'react-native-smart-splash-screen';
 
 class AuthLoadingScreen extends Component {
 	constructor(props) {
@@ -10,11 +10,11 @@ class AuthLoadingScreen extends Component {
 
 	componentWillMount() {
 		this.rootRouteHandler();
-		SplashScreen.close({
+	/* 	SplashScreen.close({
 			animationType: SplashScreen.animationType.fade,
 			duration: 850,
 			delay: 500
-		});
+		}); */
 	}
 	// Fetch the token from storage then navigate to our appropriate place
 	rootRouteHandler = async () => {

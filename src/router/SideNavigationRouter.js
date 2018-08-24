@@ -2,7 +2,6 @@ import React from "react";
 import { Image } from "react-native";
 import { createDrawerNavigator } from "react-navigation";
 import { MainAppStack } from "./MainAppRouter";
-import DeregisterScreen from "../component/common/DeregisterComponent";
 import Logout from "../component/common/Logout";
 import { routerStyles } from "./routerStyles";
 
@@ -11,21 +10,7 @@ import SideDrawerComponent from "./SideDrawerComponent";
 //Main SideDrawer Stack
 export const NavigationDrawerStack = createDrawerNavigator(
   {
-    Profile: {
-      screen: MainAppStack,
-      navigationOptions: {
-        drawerIcon: ({ tintColor, focused }) => (
-          <Image
-            style={[
-              routerStyles.drawerIconsStyles,
-              focused && { tintColor: tintColor }
-            ]}
-            resizeMode="stretch"
-            source={require("../assets/icons/profile.png")}
-          />
-        )
-      }
-    },
+   
     ChangePassword: {
       screen: MainAppStack,
       navigationOptions: {
@@ -53,54 +38,6 @@ export const NavigationDrawerStack = createDrawerNavigator(
             ]}
             resizeMode="stretch"
             source={require("../assets/icons/dashboard.png")}
-          />
-        )
-      }
-    },
-    HistoricalPerfomance: {
-      screen: MainAppStack,
-      navigationOptions: {
-        drawerIcon: ({ tintColor, focused }) => (
-          <Image
-            style={[
-              routerStyles.drawerIconsStyles,
-              focused && { tintColor: tintColor }
-            ]}
-            resizeMode="stretch"
-            source={require("../assets/icons/historical.png")}
-          />
-        ),
-        title: "Historical Perfomance"
-      }
-    },
-    SetTarget: {
-      screen: MainAppStack,
-      navigationOptions: {
-        drawerIcon: ({ tintColor, focused }) => (
-          <Image
-            style={[
-              routerStyles.drawerIconsStyles,
-              focused && { tintColor: tintColor }
-            ]}
-            resizeMode="stretch"
-            source={require("../assets/icons/settarget.png")}
-          />
-        ),
-        title: "Set Target"
-      }
-    },
-
-    Deregister: {
-      screen: DeregisterScreen,
-      navigationOptions: {
-        drawerIcon: ({ tintColor, focused }) => (
-          <Image
-            style={[
-              routerStyles.drawerIconsStyles,
-              focused && { tintColor: tintColor }
-            ]}
-            resizeMode="stretch"
-            source={require("../assets/icons/deregister.png")}
           />
         )
       }
