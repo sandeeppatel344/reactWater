@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sandeep/.android/build-cache/089fb2035d538996d998087e1a7363cd7fa21be0/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0e13aacfc14adeb3ed86cf2b1d6c545b2ced8c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sandeep/.android/build-cache/089fb2035d538996d998087e1a7363cd7fa21be0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/build/intermediates/pre-dexed/debug/classes_0f86e19f5fe022a030d5ce62cab038e171e1e265.jar" />
+    </item>
+
+</items>

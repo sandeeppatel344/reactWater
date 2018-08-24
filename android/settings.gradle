@@ -1,0 +1,3 @@
+rootProject.name = 'InfiniteWaterAdmin'
+
+include ':app'

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/sandeep/.android/build-cache/f9da7573b1949ba5b29420a4880d8927f7476093/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

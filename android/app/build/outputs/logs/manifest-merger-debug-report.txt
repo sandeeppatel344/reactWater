@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/sandeep/.android/build-cache/089fb2035d538996d998087e1a7363cd7fa21be0/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/sandeep/.android/build-cache/089fb2035d538996d998087e1a7363cd7fa21be0/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/sandeep/.android/build-cache/b1894c767bf127e5ed2003295dcac5bd9f856cc5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sandeep/.android/build-cache/b60802caeb6902697cc216beca2df5cf4e28d813/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sandeep/.android/build-cache/7beca3dfd219a0c6cfb08a62bd3b63a2ae7f7415/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sandeep/.android/build-cache/a41f7ff1c1559cde9dc139987926187898235d08/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sandeep/.android/build-cache/72fc41b40c1e38b02dea1555baf17a331eca7aaf/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sandeep/.android/build-cache/465292295989ed165be24e68b15350cdaef6567a/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sandeep/.android/build-cache/0e11245e266ea73eb723018c3b341fdf920514d8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/sandeep/.android/build-cache/f9da7573b1949ba5b29420a4880d8927f7476093/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/sandeep/.android/build-cache/cf1986f26327d1a40fd6c76277581e9e40f1940b/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/sandeep/.android/build-cache/6adc7129da5394d2545f675dcf219eea1c7ab76b/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/sandeep/.android/build-cache/07b9971719b9e5758fa14d7f64a5d2fd0e1cea5c/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.infinitewateradmin.MainActivity
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:screenOrientation
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:17:9-45
+	android:label
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /home/sandeep/.android/build-cache/089fb2035d538996d998087e1a7363cd7fa21be0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/sandeep/.android/build-cache/b1894c767bf127e5ed2003295dcac5bd9f856cc5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sandeep/.android/build-cache/b60802caeb6902697cc216beca2df5cf4e28d813/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sandeep/.android/build-cache/7beca3dfd219a0c6cfb08a62bd3b63a2ae7f7415/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sandeep/.android/build-cache/a41f7ff1c1559cde9dc139987926187898235d08/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sandeep/.android/build-cache/72fc41b40c1e38b02dea1555baf17a331eca7aaf/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sandeep/.android/build-cache/465292295989ed165be24e68b15350cdaef6567a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sandeep/.android/build-cache/0e11245e266ea73eb723018c3b341fdf920514d8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/sandeep/.android/build-cache/f9da7573b1949ba5b29420a4880d8927f7476093/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/sandeep/.android/build-cache/cf1986f26327d1a40fd6c76277581e9e40f1940b/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/sandeep/.android/build-cache/d305a98a7eb1e1e3ac5ee143c56d87e139d27657/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/sandeep/.android/build-cache/7ebeb3e02502e19f9ff321d6526e02ce4796ec87/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/sandeep/.android/build-cache/55b053f83651aeec5e519deba7a6030416248601/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/sandeep/.android/build-cache/350810c5a99a6bd6a1db218a770de97df44a3476/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/sandeep/.android/build-cache/c6a3174a0e27946f4f41e59df7022e16e9e927e0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/sandeep/.android/build-cache/dc51bbfd3d58dc61d1b092bdfdcca9440acd575a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/sandeep/.android/build-cache/b50c28f8196ffcffdb37290211750fc397bb4000/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/sandeep/.android/build-cache/6adc7129da5394d2545f675dcf219eea1c7ab76b/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/sandeep/.android/build-cache/b1894c767bf127e5ed2003295dcac5bd9f856cc5/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sandeep/.android/build-cache/b60802caeb6902697cc216beca2df5cf4e28d813/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sandeep/.android/build-cache/7beca3dfd219a0c6cfb08a62bd3b63a2ae7f7415/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sandeep/.android/build-cache/a41f7ff1c1559cde9dc139987926187898235d08/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sandeep/.android/build-cache/72fc41b40c1e38b02dea1555baf17a331eca7aaf/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sandeep/.android/build-cache/465292295989ed165be24e68b15350cdaef6567a/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sandeep/.android/build-cache/0e11245e266ea73eb723018c3b341fdf920514d8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/sandeep/.android/build-cache/f9da7573b1949ba5b29420a4880d8927f7476093/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/sandeep/.android/build-cache/db319be41a5615f66206991b5a0fd7c212a30930/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/sandeep/.android/build-cache/cf1986f26327d1a40fd6c76277581e9e40f1940b/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/sandeep/.android/build-cache/cf1986f26327d1a40fd6c76277581e9e40f1940b/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/sandeep/.android/build-cache/cf1986f26327d1a40fd6c76277581e9e40f1940b/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/sandeep/v2stechprojects/watermeter/infmeters/InfiniteWaterAdmin/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
